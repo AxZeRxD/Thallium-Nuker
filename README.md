@@ -3,7 +3,7 @@ Thallium, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [HR (Hacking Raiders)](https://discord.gg/hackersop)
+- Download latest version from [NT (NUKERS TERRITORY)](https://discord.gg/ntop)
 - Extract all the content
 - Run thallium.py
 
@@ -34,6 +34,6 @@ For python version:
 - [x] Spam Channels
 - [x] Pick a random channel/role name and message from config.json file
 ## Contact
-- Discord: virus x aizer x saurav
-- Server: discord.gg/hackersop
-- Instagram: mohsin_xd9, m4hit_kamboz, sauravhubro
+- Discord: Aizer , Virus 
+- Server: discord.gg/ntop
+- Instagram: mohsin_xd9, m4hit_kamboz
