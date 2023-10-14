@@ -1,0 +1,4 @@
+discord==1.7.3
+discord.py==1.7.3
+httpx==0.23.0
+colorama==0.4.5
