@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 Aizer  
+Copyright (c) 2022 Dexter. 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -41,8 +41,8 @@ Thallium_art = """
        {}    ██║   ██╔══██║██╔══██║██║     ██║     ██║██║   ██║██║╚██╔╝██║
        {}    ██║   ██║  ██║██║  ██║███████╗███████╗██║╚██████╔╝██║ ╚═╝ ██║
        {}    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝
-      {} =============================== NT ==================================
-      {}   NUKERS TERRITORY| Aizer On Top discord.gg/ntop
+      {} =============================== DEXTER FUCKER ==================================
+      {}   DEXTER| Dexter On Top discord.gg/mrontop 
       {} =============================== NT =================================={}
 """.format("\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[38;5;83m", "\x1b[38;5;122m", "\x1b[0m")
 options = """
@@ -401,7 +401,7 @@ class Thallium:
             for channel in channels: self.channels.append(channel['id'])
             channelz = cycle(self.channels)
             for i in range(amount):
-                t = threading.Thread(target=self.execute_massping, args=(next(channelz),(Aizer), token))
+                t = threading.Thread(target=self.execute_massping, args=(next(channelz),(Dexter), token))
                 t.start()
                 while threading.active_count() >= __threads__ - 15:
                     t.join()
@@ -428,7 +428,7 @@ class Thallium:
     
         
         elif ans == "11":
-            print("Developed By Nt development | Developed By Aizer  || Join :- Nt https://discord.gg/ntop || You-tube :-  https://youtube.com/@nukersop")
+            print("Developed By Dexter | Developed By Dexter  || Join :- Mr https://discord.gg/mrontop || You-tube :-  https://youtube.com/@mrontop")
             input("")
             self.menu()
         
