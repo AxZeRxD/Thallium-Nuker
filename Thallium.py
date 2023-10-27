@@ -419,7 +419,7 @@ class Thallium:
                 check_version = response.headers.get('location').split('/')[7].split('v')[1]
                 if VERSION != check_version:
                     print("{}({}Thallium{}) You're using an outdated version!".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m"))
-                    webbrowser.open(f"https://github.com/notAizer/Thallium-Nuker/releases/tag/{check_version}")
+                    webbrowser.open(f"https://github.com/AxZeRxD/Thallium-Nuker/releases/tag/{check_version}")
                 else:
                     print("{}({}Thallium{}) You're using the current version!".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m"))
             except:
@@ -430,7 +430,7 @@ class Thallium:
     
         
         elif ans == "11":
-            print("Developed By Nt development | Developed By Aizer  || Join :- Nt https://discord.gg/ntontop || You-tube :-  https://youtube.com/@nukersop")
+            print("Developed By Nt development | Developed By Aizer  || Join :- Nt https://discord.gg/ntontop || You-tube :-  https://youtube.com/@nukersop || GitHub :- https://github.com/AxZeRxD/Thallium-Nuker")
             input("")
             self.menu()
         
