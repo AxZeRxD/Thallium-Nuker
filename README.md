@@ -36,4 +36,4 @@ For python version:
 ## Contact
 - Discord: Aizer , Virus 
 - Server: discord.gg/ntop
-- Instagram: mohsin_xd9, m4hit_kamboz
+- Instagram: m4hit_kamboz
