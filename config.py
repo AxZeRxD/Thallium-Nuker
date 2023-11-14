@@ -3,20 +3,20 @@
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "AIZER X VIRUS ",
+            "Habibiiii ",
             "The Fucking Kimd Here",
-            "HACKING R1DERS",
-            "AIZER X VIRUS BAP HAI"
+            "habibi is here bxby",
+            "papa agye"
         ],
         "roles_name": [
-            "wizzed by Aizer x vairus ",
-            "Nukers Territory",
-            "Aizer x virus  Papa Here"
+            "wizzed by habibi ",
+            "habibi",
+            "Papa Here"
         ],
         "messages_content": [
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop"
+            "@everyone @here **Papa aa gye** https://discord.gg/tsponfire",
+            "@everyone @here **Papa Aye The** https://discord.gg/tsponfire",
+            "@everyone @here **Papa Aye The** https://discord.gg/tsponfire"
         ]
     }
 }
