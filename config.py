@@ -14,9 +14,9 @@
             "Papa Here"
         ],
         "messages_content": [
-            "@everyone @here **Papa aa gye** https://discord.gg/tsponfire",
-            "@everyone @here **Papa Aye The** https://discord.gg/tsponfire",
-            "@everyone @here **Papa Aye The** https://discord.gg/tsponfire"
+            "@everyone @here **Papa aa gye** https://discord.gg/waFNEC4W",
+            "@everyone @here **Papa Aye The** https://discord.gg/waFNEC4W",
+            "@everyone @here **Papa Aye The** https://discord.gg/waFNEC4W"
         ]
     }
 }
