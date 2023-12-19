@@ -449,7 +449,7 @@ if __name__ == "__main__":
     try:
         os.system("title Thallium Nuker ^| Authentication & mode con: cols=95 lines=25")
         guildid = input("{}({}Thallium{}) Guild ID{}:{} ".format("\x1b[0m", "\x1b[38;5;122m", "\x1b[0m", "\x1b[38;5;122m", "\x1b[0m"))
-        __client__.run(token, bot=True)
+        __client__.run(token, bot=False)
     except Exception as e:
         print("{}({}-{}) {}".format("\x1b[0m", "\x1b[31m", "\x1b[0m", e))
         time.sleep(1.5)
