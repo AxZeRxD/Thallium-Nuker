@@ -3,7 +3,7 @@ Thallium, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [NUKERS TERRITORY](https://discord.gg/ntop)
+- Download latest version from [NUKERS](https://discord.gg/abusers)
 - Extract all the content
 - Run thallium.py
 
@@ -35,8 +35,8 @@ For python version:
 - [x] Pick a random channel/role name and message from config.json file
 ## Contact
 - Discord: Aizer , Virus 
-- Server: discord.gg/ntop
-- Instagram: m4hit_kamboz
+- Server: discord.gg/abusers
+- Instagram: mohit.4sure
 
 # NUKER SCREENSHOT 
-![THALLIUM NUKER ](https://media.discordapp.net/attachments/1176888895946887189/1177617226686279680/Screenshot_2023-11-24_195959.png?ex=65732881&is=6560b381&hm=886f5e143a2519e7dc17ec57e6beb31877f84965e494789a8194ad5b042f8698&=&format=webp&width=1106&height=572)
+![THALLIUM NUKER ]([https://media.discordapp.net/attachments/1176888895946887189/1177617226686279680/Screenshot_2023-11-24_195959.png?ex=65732881&is=6560b381&hm=886f5e143a2519e7dc17ec57e6beb31877f84965e494789a8194ad5b042f8698&=&format=webp&width=1106&height=572](https://media.discordapp.net/attachments/1189590378966417438/1191049030898294925/image.png?ex=65a405d9&is=659190d9&hm=9566c03cdf13c0a0fa0f61482bd42da59e1d035495e64752984412ee82fb809c&=&format=webp&quality=lossless&width=1073&height=417)https://media.discordapp.net/attachments/1189590378966417438/1191049030898294925/image.png?ex=65a405d9&is=659190d9&hm=9566c03cdf13c0a0fa0f61482bd42da59e1d035495e64752984412ee82fb809c&=&format=webp&quality=lossless&width=1073&height=417)
