@@ -32,10 +32,9 @@ For python version:
 - [x] Delete Emojis
 - [ ] Delete Stickers
 - [x] Spam Channels
-- [x] Pick a random channel/role name and message from config.json file
 ## Contact
 - Discord: Aizer , Virus 
-- Server: discord.gg/abusers
+- Server: discord.gg/coderz
 - Instagram: mohit.4sure
 
 # NUKER SCREENSHOT 
