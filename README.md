@@ -1,18 +1,17 @@
 # Thallium Nuker
 Thallium, fastest nuker on discord written in py.
-## Installation
-For compiled version:
 
 - Download latest version from [CoderZ](https://discord.gg/coderz)
 - Extract all the content
-- Run thallium.py
-
-For python version:
+- Run thallium.exe
 
 - Install required modules from "requirements.txt"
-- Provide your bot token and channel/roles/messages content in config.json file
+- Provide content in config.py file
 - Provide your proxies (optional)
-- Run thallium.py
+- Run thallium.exe
+
+# "Thallium is malware/logger!"
+- Thallium has never had any loggers or malware. I have no reason to put it in and will never include any type of malware in my projects. Please gather proof before accusing people.
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
