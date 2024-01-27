@@ -3,7 +3,7 @@ Thallium, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [NUKERS](https://discord.gg/abusers)
+- Download latest version from [CoderZ](https://discord.gg/coderz)
 - Extract all the content
 - Run thallium.py
 
@@ -39,4 +39,4 @@ For python version:
 - Instagram: mohit.4sure
 
 # NUKER SCREENSHOT 
-![THALLIUM NUKER ](https://media.discordapp.net/attachments/1189590378966417438/1191049030898294925/image.png?ex=65a405d9&is=659190d9&hm=9566c03cdf13c0a0fa0f61482bd42da59e1d035495e64752984412ee82fb809c&=&format=webp&quality=lossless&width=1073&height=417)
+![THALLIUM NUKER ](https://github.com/AxZeRxD/Thallium-Nuker/assets/147937463/c90f375e-73fd-4e05-988f-bb9a4d1a5152)
