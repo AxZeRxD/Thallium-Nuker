@@ -34,6 +34,6 @@ For python version:
 - [x] Spam Channels
 - [x] Pick a random channel/role name and message from config.json file
 ## Contact
-- Discord: Aizer , Virus 
+- Discord: mohit.4sure#0
 - Server: discord.gg/ntop
-- Instagram: mohsin_xd9, m4hit_kamboz
+- Instagram: Mohit.4sure
