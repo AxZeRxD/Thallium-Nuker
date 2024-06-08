@@ -3,16 +3,10 @@ Thallium, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [NUKERS TERRITORY](https://discord.gg/ntop)
+- Download latest version from [NUKER](https://discord.gg/nukers)
 - Extract all the content
-- Run thallium.py
+- Run thallium.exe
 
-For python version:
-
-- Install required modules from "requirements.txt"
-- Provide your bot token and channel/roles/messages content in config.json file
-- Provide your proxies (optional)
-- Run thallium.py
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
