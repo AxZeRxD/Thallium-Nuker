@@ -1,6 +1,3 @@
-Here's an updated version of the **Thallium Nuker** README with an improved "To-Do" list to reflect the current status:
-
----
 
 # Thallium Nuker
 **Thallium** is the fastest nuker on Discord, written in Python.
@@ -42,7 +39,7 @@ If you have any doubts, please do not use our tool. Thallium is offered without 
 ## Contact
 
 - Discord: **@aesthetic.aizer#0**
-- Server: [Rexa HQ](https://discord.gg/rexa) | [Leveragers Tools/Code](https://discord.gg/DKj7wfAu3W)
+- Server: [NT](https://discord.gg/ntop) | [Leveragers Tools/Code](https://discord.gg/DKj7wfAu3W)
 - Instagram: [mohit.4sure](https://www.instagram.com/mohit.4sure)
 
 ---
