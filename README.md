@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Download the latest version from [REXA](https://discord.gg/rexa) or from GitHub.
+- Download the latest version from [Leveragers](https://discord.gg/programmers) or from GitHub.
 - Extract all the content.
 - Run `thallium.exe`.
 - Install required modules from `requirements.txt` by typing `Y` when prompted in the `EXE` file.
